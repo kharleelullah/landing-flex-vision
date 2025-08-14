@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				prize: {
+					gold: 'hsl(var(--prize-gold))',
+					silver: 'hsl(var(--prize-silver))',
+					bronze: 'hsl(var(--prize-bronze))',
+					blue: 'hsl(var(--prize-blue))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
